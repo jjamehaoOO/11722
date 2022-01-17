@@ -581,7 +581,7 @@ flex-direction: column;
                 display: flex; 
                 position: relative;}
             .item{
-                width: 600px;
+                
                 height: 450px;
                 display: flex;
                 background-color: rgba(0, 0, 0, .3);
